@@ -1,7 +1,9 @@
-#python 2.7.+++
+#python 3.5.+++
 
 [ py ] Conexão http :
 
-Servidor - - -> Cliente
+Servidor - - ->   Cliente
 
 Dev
+
+@jfc_me
